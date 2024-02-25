@@ -1,3 +1,3 @@
 # portfolio
 
-<h3>CSE-326 Project</h3>
+<h3>Online Portfolio</h3>
